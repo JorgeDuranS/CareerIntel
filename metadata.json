@@ -1,0 +1,5 @@
+{
+  "name": "Career Intel AI",
+  "description": "An advanced Career Intelligence Engine that analyzes professional profiles, matches them against job offers with semantic scoring, and generates ATS-optimized resumes.",
+  "requestFramePermissions": []
+}
